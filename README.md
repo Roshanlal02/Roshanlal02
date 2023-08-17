@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **roshanlald02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11HU_PsQtdV8RpFA4zJTKWyl4RXp3AzkT/view?usp=sharing](https://drive.google.com/file/d/11HU_PsQtdV8RpFA4zJTKWyl4RXp3AzkT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11HU_PsQtdV8RpFA4zJTKWyl4RXp3AzkT/view?usp=sharing)
 
-- ⚡ Fun fact **I'm also interested in design 🎨**
+- ⚡ Fun fact **I'm also interested in design and art 🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
