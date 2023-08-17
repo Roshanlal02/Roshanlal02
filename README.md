@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanlal02&label=Profile%20views&color=0e75b6&style=flat" alt="roshanlal02" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **a MERN stack project for students and instructors to purchase and list courses respectively**
 
 - 🌱 I’m currently learning **NextJs and MERN Stack**
