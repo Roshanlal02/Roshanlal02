@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help in **finding new opportunities**
 
-- 👨‍💻 All of my projects are available at [---UNDER DEVELOPMENT---](---UNDER DEVELOPMENT---)
+- 👨‍💻 All of my projects are available at [Portfolio](https://roshanlal-portfolio.vercel.app/)
 
 - 📫 How to reach me **roshanlald02@gmail.com**
 
