@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **roshanlald02@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z80NHUpKsoZDUHH4YBdulbib2LPG5yGg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KNzwPpMRtNLYLih97_EVw1pE5rmXbyoX/view?usp=sharing)
 
 - ⚡ Fun fact **I'm also interested in design and art 🎨**
 
